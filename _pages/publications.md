@@ -11,16 +11,13 @@ author_profile: true
 
 {% include base_path %}
 
-<br>
-
 PatLabor: Pareto Optimization of Timing-Driven Routing Trees  
 **Zhiyang Chen**, Hailong Yao, and Xia Yin.  
 In *Proceedings of Design Automation Conference* (DAC), 2025.
 
-Mr.TPL: A Method for Multi-Pin Net Router in Triple Patterning Lithography  
+Mr.TPL: A Method for Multi-Pin Net Router in Triple Patterning Lithography ([arXiv](https://arxiv.org/abs/2412.02703))  
 Chengkai Wang, Weiqing Ji, Mingyang Kou, **Zhiyang Chen**, Fei Li, Hailong Yao.  
 In *Proceedings of Design Automation Conference* (DAC), 2025.  
-[arXiv preprint](https://arxiv.org/abs/2412.02703)
 
 [Differentiable Rectilinear Steiner Trees for Analytical Placement](https://ieeexplore.ieee.org/document/10617497)  
 **Zhiyang Chen**, Hailong Yao, Tsung-Yi Ho, Ulf Schlichtmann and Xia Yin.  

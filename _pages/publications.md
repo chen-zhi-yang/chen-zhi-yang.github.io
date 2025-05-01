@@ -16,6 +16,10 @@ They'll read loose sentences, traces of lost women, fragments of motionless chil
 your slow green eyes simply will not exist.  
 --- Roberto Bolaño
 
+8. Learning Configurations for Data-Driven Multi-Objective Optimization  
+**Zhiyang Chen**, Hailong Yao, Xia Yin.  
+In *Proceedings of International Conference on Machine Learning* (ICML), 2025.
+
 7. PatLabor: Pareto Optimization of Timing-Driven Routing Trees  
 **Zhiyang Chen**, Hailong Yao, Xia Yin.  
 In *Proceedings of Design Automation Conference* (DAC), 2025.

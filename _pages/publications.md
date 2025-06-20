@@ -16,7 +16,7 @@ They'll read loose sentences, traces of lost women, fragments of motionless chil
 your slow green eyes simply will not exist.  
 --- Roberto Bolaño
 
-8. Learning Configurations for Data-Driven Multi-Objective Optimization  
+8. [Learning Configurations for Data-Driven Multi-Objective Optimization](https://openreview.net/pdf?id=1fUJk8viuw)  
 **Zhiyang Chen**, Hailong Yao, Xia Yin.  
 In *Proceedings of International Conference on Machine Learning* (ICML), 2025.
 

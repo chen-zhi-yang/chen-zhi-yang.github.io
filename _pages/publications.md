@@ -16,13 +16,17 @@ They'll read loose sentences, traces of lost women, fragments of motionless chil
 your slow green eyes simply will not exist.  
 --- Roberto Bolaño
 
+9. Generalization Bounds for Model-based Algorithm Configuration  
+**Zhiyang Chen**, Hailong Yao, Xia Yin.  
+Working paper, 2025.
+
 8. [Learning Configurations for Data-Driven Multi-Objective Optimization](https://openreview.net/pdf?id=1fUJk8viuw)  
 **Zhiyang Chen**, Hailong Yao, Xia Yin.  
 In *Proceedings of International Conference on Machine Learning* (ICML), 2025.
 
 7. PatLabor: Pareto Optimization of Timing-Driven Routing Trees  
 **Zhiyang Chen**, Hailong Yao, Xia Yin.  
-In *Proceedings of Design Automation Conference* (DAC), 2025.
+In *Proceedings of Design Automation Conference* (DAC), 2025. ([preprint](https://chen-zhi-yang.github.io/files/Pareto_Optimization_of_Timing_Driven_Routing_Trees.pdf))
 
 6. Mr.TPL: A Method for Multi-Pin Net Router in Triple Patterning Lithography  
 Chengkai Wang, Weiqing Ji, Mingyang Kou, **Zhiyang Chen**, Fei Li, Hailong Yao.  

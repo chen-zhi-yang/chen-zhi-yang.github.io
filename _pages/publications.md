@@ -20,9 +20,9 @@ your slow green eyes simply will not exist.
 **Zhiyang Chen**, Hailong Yao, Xia Yin.  
 Working paper, 2025.
 
-8. [Learning Configurations for Data-Driven Multi-Objective Optimization](https://openreview.net/pdf?id=1fUJk8viuw)  
+8. Learning Configurations for Data-Driven Multi-Objective Optimization  
 **Zhiyang Chen**, Hailong Yao, Xia Yin.  
-In *Proceedings of International Conference on Machine Learning* (ICML), 2025.
+In *Proceedings of International Conference on Machine Learning* (ICML), 2025. ([OpenReview](https://openreview.net/pdf?id=1fUJk8viuw))
 
 7. [PatLabor: Pareto Optimization of Timing-Driven Routing Trees](https://ieeexplore.ieee.org/document/11133098)  
 **Zhiyang Chen**, Hailong Yao, Xia Yin.  

@@ -18,7 +18,7 @@ your slow green eyes simply will not exist.
 
 9. Generalization Bounds for Model-based Algorithm Configuration  
 **Zhiyang Chen**, Hailong Yao, Xia Yin.  
-In *Proceedings of Neural Information Processing Systems* (NeurIPS), 2025.
+In *Proceedings of Annual Conference on Neural Information Processing Systems* (NeurIPS), 2025.
 
 8. Learning Configurations for Data-Driven Multi-Objective Optimization  
 **Zhiyang Chen**, Hailong Yao, Xia Yin.  
@@ -30,7 +30,7 @@ In *Proceedings of Design Automation Conference* (DAC), 2025. ([preprint](https:
 
 6. [Mr.TPL: A Method for Multi-Pin Net Router in Triple Patterning Lithography](https://ieeexplore.ieee.org/document/11132965)  
 Chengkai Wang, Weiqing Ji, Mingyang Kou, **Zhiyang Chen**, Fei Li, Nengyong Zhu, Hailong Yao.  
-In *Proceedings of Design Automation Conference* (DAC), 2025. ([arXiv preprint](https://arxiv.org/abs/2412.02703))  
+In *Proceedings of Design Automation Conference* (DAC), 2025. ([arXiv](https://arxiv.org/abs/2412.02703))  
 
 5. [Differentiable Rectilinear Steiner Trees for Analytical Placement](https://ieeexplore.ieee.org/document/10617497)  
 **Zhiyang Chen**, Hailong Yao, Tsung-Yi Ho, Ulf Schlichtmann, Xia Yin.  

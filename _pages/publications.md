@@ -20,7 +20,7 @@ your slow green eyes simply will not exist.
 **Zhiyang Chen**, Hailong Yao, Xia Yin.  
 In *Advances in Neural Information Processing Systems* (NeurIPS), 2025.
 
-8. Learning Configurations for Data-Driven Multi-Objective Optimization  
+8. [Learning Configurations for Data-Driven Multi-Objective Optimization](https://proceedings.mlr.press/v267/chen25ce.html)  
 **Zhiyang Chen**, Hailong Yao, Xia Yin.  
 In *Proceedings of International Conference on Machine Learning* (ICML), 2025. ([OpenReview](https://openreview.net/pdf?id=1fUJk8viuw))
 

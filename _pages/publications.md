@@ -18,7 +18,7 @@ your slow green eyes simply will not exist.
 
 9. Generalization Bounds for Model-based Algorithm Configuration  
 **Zhiyang Chen**, Hailong Yao, Xia Yin.  
-In *Advances in Neural Information Processing Systems* (NeurIPS), 2025.
+In *Advances in Neural Information Processing Systems* (NeurIPS), 2025. ([OpenReview](https://openreview.net/forum?id=bAJCfIywYl))
 
 8. [Learning Configurations for Data-Driven Multi-Objective Optimization](https://proceedings.mlr.press/v267/chen25ce.html)  
 **Zhiyang Chen**, Hailong Yao, Xia Yin.  

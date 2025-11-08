@@ -16,7 +16,7 @@ They'll read loose sentences, traces of lost women, fragments of motionless chil
 your slow green eyes simply will not exist.  
 --- Roberto Bolaño
 
-1. Minimum-Cost Network Flow with Dual Predictions
+1. Minimum-Cost Network Flow with Dual Predictions  
 **Zhiyang Chen**, Hailong Yao, Xia Yin.  
 In *Proceedings of AAAI Conference on Artificial Intelligence* (AAAI), 2026.
 

@@ -22,7 +22,7 @@ In *Proceedings of AAAI Conference on Artificial Intelligence* (AAAI), 2026.
 
 1. Generalization Bounds for Model-based Algorithm Configuration  
 **Zhiyang Chen**, Hailong Yao, Xia Yin.  
-In *Advances in Neural Information Processing Systems* (NeurIPS), 2025. ([OpenReview](https://openreview.net/pdf?id=bAJCfIywYl))
+In *Advances in Neural Information Processing Systems* (NeurIPS), 2025. ([OpenReview](https://openreview.net/pdf?id=bAJCfIywYl)) ([poster](https://chen-zhi-yang.github.io/files/neurips25-poster.pdf))
 
 1. [Learning Configurations for Data-Driven Multi-Objective Optimization](https://proceedings.mlr.press/v267/chen25ce.html)  
 **Zhiyang Chen**, Hailong Yao, Xia Yin.  
@@ -30,7 +30,7 @@ In *Proceedings of International Conference on Machine Learning* (ICML), 2025. (
 
 1. [PatLabor: Pareto Optimization of Timing-Driven Routing Trees](https://ieeexplore.ieee.org/document/11133098)  
 **Zhiyang Chen**, Hailong Yao, Xia Yin.  
-In *Proceedings of Design Automation Conference* (DAC), 2025. ([preprint](https://chen-zhi-yang.github.io/files/Pareto_Optimization_of_Timing_Driven_Routing_Trees.pdf))
+In *Proceedings of Design Automation Conference* (DAC), 2025. ([preprint](https://chen-zhi-yang.github.io/files/Pareto_Optimization_of_Timing_Driven_Routing_Trees.pdf)) ([poster](https://chen-zhi-yang.github.io/files/patlabor-poster.pdf))
 
 1. [Mr.TPL: A Method for Multi-Pin Net Router in Triple Patterning Lithography](https://ieeexplore.ieee.org/document/11132965)  
 Chengkai Wang, Weiqing Ji, Mingyang Kou, **Zhiyang Chen**, Fei Li, Nengyong Zhu, Hailong Yao.  

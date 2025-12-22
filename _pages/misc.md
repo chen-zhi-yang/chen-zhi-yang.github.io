@@ -5,7 +5,7 @@ permalink: /misc/
 author_profile: true
 ---
 
-I *was* a contestant of algorithmic competitive programming, and won a silver medal in [National Olympiad in Informatics (NOI)](https://www.noi.cn) in high school. I always feel a sweet and melancholy nostalgia for NOI. It has paved my way to university, yet it also utterly transformed my heart and life. Nevertheless, those (never-coming-back) days spent discussing algorithmic problems with high school friends remain my most treasured memories, regardless of everything else.
+I *was* a contestant of algorithmic competitive programming, and won silver medals in [National Olympiad in Informatics (NOI)](https://www.noi.cn) in high school. I always feel a sweet and melancholy nostalgia for NOI. It has paved my way to university, yet it also utterly transformed my heart and life. Nevertheless, those (never-coming-back) days spent discussing algorithmic problems with high school friends remain my most treasured memories, regardless of everything else.
 
 I am a humble reader of modern literature and literary theory. A long (but not exhaustive) list of authors that I like: Roberto Bolaño, William Faulkner, Franz Kafka, Julio Cortázar, James Joyce, Anton Chekhov, Mishima Yukio, Walter Benjamin, and Roland Barthes. [Bolaño](https://en.wikipedia.org/wiki/Roberto_Bola%C3%B1o) is my personal favorite (though this does not mean he is the best). When I first read his short story collection, I realized (a bit sadly) that he is an author I will never be able to live without.
 

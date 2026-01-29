@@ -18,7 +18,7 @@ your slow green eyes simply will not exist.
 
 1. Minimum-Cost Network Flow with Dual Predictions  
 **Zhiyang Chen**, Hailong Yao, Xia Yin.  
-In *Proceedings of AAAI Conference on Artificial Intelligence* (AAAI), 2026.
+In *Proceedings of AAAI Conference on Artificial Intelligence* (AAAI), 2026.  ([arXiv](https://arxiv.org/abs/2601.20203))
 
 1. Generalization Bounds for Model-based Algorithm Configuration  
 **Zhiyang Chen**, Hailong Yao, Xia Yin.  
@@ -34,7 +34,7 @@ In *Proceedings of Design Automation Conference* (DAC), 2025. ([preprint](https:
 
 1. [Mr.TPL: A Method for Multi-Pin Net Router in Triple Patterning Lithography](https://ieeexplore.ieee.org/document/11132965)  
 Chengkai Wang, Weiqing Ji, Mingyang Kou, **Zhiyang Chen**, Fei Li, Nengyong Zhu, Hailong Yao.  
-In *Proceedings of Design Automation Conference* (DAC), 2025. ([arXiv](https://arxiv.org/abs/2412.02703))  
+In *Proceedings of Design Automation Conference* (DAC), 2025. ([arXiv](https://arxiv.org/abs/2412.02703))
 
 1. [Differentiable Rectilinear Steiner Trees for Analytical Placement](https://ieeexplore.ieee.org/document/10617497)  
 **Zhiyang Chen**, Hailong Yao, Tsung-Yi Ho, Ulf Schlichtmann, Xia Yin.  

@@ -20,7 +20,7 @@ your slow green eyes simply will not exist.
 **Zhiyang Chen**, Hailong Yao, Xia Yin.  
 In *Proceedings of AAAI Conference on Artificial Intelligence* (AAAI), 2026.  ([arXiv](https://arxiv.org/abs/2601.20203))
 
-1. Generalization Bounds for Model-based Algorithm Configuration  
+1. [Generalization Bounds for Model-based Algorithm Configuration](https://proceedings.neurips.cc/paper_files/paper/2025/hash/81fde95c4dc79188a69ce5b24d63010b-Abstract-Conference.html)  
 **Zhiyang Chen**, Hailong Yao, Xia Yin.  
 In *Advances in Neural Information Processing Systems* (NeurIPS), 2025. ([OpenReview](https://openreview.net/pdf?id=bAJCfIywYl)) ([poster](https://chen-zhi-yang.github.io/files/neurips25-poster.pdf))
 

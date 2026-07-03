@@ -16,6 +16,10 @@ They'll read loose sentences, traces of lost women, fragments of motionless chil
 your slow green eyes simply will not exist.  
 --- Roberto Bolaño
 
+1. [Chiplet-Escape: An Efficient Obstacle-Avoiding Escape Routing Method for Die-to-Die Interconnections in Chiplet-Based Designs](https://dl.acm.org/doi/10.1145/3829370)  
+Weiqing Ji, Mingyang Kou, **Zhiyang Chen**, Jianwang Zhai, Ning Xu, Fei Li, Hailong Yao.  
+In *ACM Transactions on Design Automation of Electronic Systems*, 2026.
+
 1. [Minimum-Cost Network Flow with Dual Predictions](https://ojs.aaai.org/index.php/AAAI/article/view/41008)  
 **Zhiyang Chen**, Hailong Yao, Xia Yin.  
 In *Proceedings of AAAI Conference on Artificial Intelligence* (AAAI), 2026.  ([arXiv](https://arxiv.org/abs/2601.20203))

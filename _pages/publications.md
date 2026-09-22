@@ -16,7 +16,7 @@ They'll read loose sentences, traces of lost women, fragments of motionless chil
 your slow green eyes simply will not exist.  
 --- Roberto Bolaño
 
-1. [Smoothed Analysis of Inconsistent A\*]  
+1. Smoothed Analysis of Inconsistent A\*  
 **Zhiyang Chen**, Hailong Yao.  
 Submitted, 2026. ([arXiv](https://arxiv.org/abs/2609.23680))
 

@@ -16,6 +16,10 @@ They'll read loose sentences, traces of lost women, fragments of motionless chil
 your slow green eyes simply will not exist.  
 --- Roberto Bolaño
 
+1. [Smoothed Analysis of Inconsistent A\*]  
+**Zhiyang Chen**, Hailong Yao.  
+Submitted, 2026. ([arXiv](https://arxiv.org/abs/2609.23680))
+
 1. [Chiplet-Escape: An Efficient Obstacle-Avoiding Escape Routing Method for Die-to-Die Interconnections in Chiplet-Based Designs](https://dl.acm.org/doi/10.1145/3829370)  
 Weiqing Ji, Mingyang Kou, **Zhiyang Chen**, Jianwang Zhai, Ning Xu, Fei Li, Hailong Yao.  
 In *ACM Transactions on Design Automation of Electronic Systems* (TODAES), 2026.
